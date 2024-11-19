@@ -55,16 +55,24 @@
 
 ## TOPIC 6: LOAD BALANCER
 ### creation of target group :
+![image](https://github.com/user-attachments/assets/b62c73f1-4372-4414-a086-d84d4dbd241d)
 ### creation of classic load balancer :
+![image](https://github.com/user-attachments/assets/d89a9538-897a-4045-98eb-772716b21007)
 ### creation of application load balancer :
+![image](https://github.com/user-attachments/assets/08868ebf-1ff1-4fad-bd28-6cd706b8392d)
 ### result of both the balancer shown in chrome :
 
 ## TOPIC 7: AUTO SCALING
 ### creation of target group :
+![image](https://github.com/user-attachments/assets/b62c73f1-4372-4414-a086-d84d4dbd241d)
 ### creation of load balancer :
+![image](https://github.com/user-attachments/assets/08868ebf-1ff1-4fad-bd28-6cd706b8392d)
 ### automatic creation of ec2 :
+![image](https://github.com/user-attachments/assets/7cbbf292-6baa-4eac-8b75-c7718c73aa62)
 ### load increased by stress shown in terminal :
+![image](https://github.com/user-attachments/assets/b4efbf21-0730-408f-b386-c79436d756e5)
 ### creation of extra ec2 :
+![image](https://github.com/user-attachments/assets/68804e86-f8cf-435e-8805-6d2486cd604f)
 
 ## TOPIC 8: SQL
 ### screenshot of all the commands :
