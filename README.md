@@ -1,17 +1,21 @@
 # Cloud_Computing_Project
 ## TOPIC 1: NETWORKING
 ### virtual machine :
-
+![image](https://github.com/user-attachments/assets/217b4d97-fc36-4e5d-8a5d-0a6908a1a92e)
 ### ip address :
-
+![image](https://github.com/user-attachments/assets/4ac697d0-3cd2-442d-88e6-7ee7d79ce5eb)
 ### linux commands :
-
+![image](https://github.com/user-attachments/assets/4c779360-3ac2-4c56-996d-3b3e18d8a310)
 ### test page :
+![Screenshot 2024-11-16 102719](https://github.com/user-attachments/assets/945e2351-2258-4606-85ea-0e79f4e4bd24)
 
 ## TOPIC 2: IAM USER
 ### User :
+![image](https://github.com/user-attachments/assets/0a9c3bee-8490-4419-aee0-37af295b5083)
 ### group :
+![image](https://github.com/user-attachments/assets/be9a5639-d9db-48dc-bbcf-6bd67afb7b14)
 ### programmatic access to user :
+![image](https://github.com/user-attachments/assets/ed91fee5-79fb-45c3-a4ac-dbf15d7d3dbb)
 
 ## TOPIC 3: S3
 ### Bucket creation :
