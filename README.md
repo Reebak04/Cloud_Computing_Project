@@ -23,6 +23,7 @@
 ### public access of the bucket :
 ![image](https://github.com/user-attachments/assets/31188c3c-a6fa-4962-94f3-15e4d6e88312)
 ### life cycle :
+![image](https://github.com/user-attachments/assets/3be2868f-488c-4c95-9ca7-1d09898e3f8a)
 ### versioning :
 ![image](https://github.com/user-attachments/assets/9f49d84f-8199-4b35-9e78-b6d4b8cb5872)
 ### replication :
