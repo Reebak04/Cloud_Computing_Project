@@ -59,12 +59,14 @@
 
 ## TOPIC 6: LOAD BALANCER
 ### creation of target group :
-![image](https://github.com/user-attachments/assets/b62c73f1-4372-4414-a086-d84d4dbd241d)
+![image](https://github.com/user-attachments/assets/e37d510e-3caf-474f-abd9-4949ab3555ce)
 ### creation of classic load balancer :
-![image](https://github.com/user-attachments/assets/d89a9538-897a-4045-98eb-772716b21007)
+![image](https://github.com/user-attachments/assets/389ad29b-24d8-40a8-bd78-3d42594c909c)
 ### creation of application load balancer :
-![image](https://github.com/user-attachments/assets/08868ebf-1ff1-4fad-bd28-6cd706b8392d)
+![image](https://github.com/user-attachments/assets/9b4e8c85-e8e4-45f4-b838-db4ca52f516e)
 ### result of both the balancer shown in chrome :
+![image](https://github.com/user-attachments/assets/42dddff2-c676-47af-92d5-b2f6ec9b4bd3)
+![image](https://github.com/user-attachments/assets/c75466fb-aa4b-470f-a919-36956e88e621)
 
 ## TOPIC 7: AUTO SCALING
 ### creation of target group :
